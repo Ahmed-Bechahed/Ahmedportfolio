@@ -635,12 +635,10 @@ font-size: 2rem;
     flex-direction: column;
     border-radius: 1rem;    
 }
-.imgcontainer{
-    margin-top: 3rem;
-    border-radius: 60%;
-}
+
 
 .aboutcard img{
+   margin-top: 3rem;
    height:20vw;
     border-radius: 60%;
 
