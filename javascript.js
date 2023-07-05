@@ -2,7 +2,7 @@ let loader=document.querySelector(".section0");
 console.log(loader);
 window.addEventListener('load',()=>{
   loader.classList.toggle("disppearloader");
-  setTimeout(showhome,1500);
+  setTimeout(showhome,500);
 
 },false);
 
